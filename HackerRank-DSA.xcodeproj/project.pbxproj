@@ -28,6 +28,7 @@
 		098BA39D2C0B5A030013D513 /* Grading Students.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = "Grading Students.hpp"; sourceTree = "<group>"; };
 		09BFC1AA2C0B812200A7759A /* Number Line Jumps.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Number Line Jumps.h"; sourceTree = "<group>"; };
 		09BFC1AB2C0B872D00A7759A /* func.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = func.h; sourceTree = "<group>"; };
+		09BFC1AC2C0BB74700A7759A /* Between Two Sets.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Between Two Sets.h"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +65,7 @@
 				098BA3952C0B59D40013D513 /* main.cpp */,
 				098BA39D2C0B5A030013D513 /* Grading Students.hpp */,
 				09BFC1AA2C0B812200A7759A /* Number Line Jumps.h */,
+				09BFC1AC2C0BB74700A7759A /* Between Two Sets.h */,
 			);
 			path = "HackerRank-DSA";
 			sourceTree = "<group>";
